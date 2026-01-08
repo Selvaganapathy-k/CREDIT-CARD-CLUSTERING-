@@ -1,4 +1,3 @@
-Subject: README.md – Credit Card Customer Clustering
 
 # 💳 Credit Card Customer Clustering
 
